@@ -26,8 +26,8 @@ This project is a **Music Recommendation System** built using Python, Flask, Tai
 
 ## Usage
 1. Launch the application in your browser.
-2. Enter your music preferences or select from suggested genres.
-3. View personalized music recommendations based on your listening history.
+2. Select your favourite songs.
+3. View personalized music recommendations based on your song selection.
 
 ## Future Enhancements
 - Advanced recommendation algorithms using machine learning models.
