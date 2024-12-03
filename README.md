@@ -32,7 +32,7 @@ This project is a **Music Recommendation System** built using Python, Flask, Tai
 ## Future Enhancements
 - Advanced recommendation algorithms using machine learning models.
 - User authentication to save and retrieve personalized recommendations.
-- 
+
 ---
 **Happy Listening!** 🎵
 
